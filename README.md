@@ -101,17 +101,33 @@ I am a seasoned full-stack engineer with a wealth of experience in web3 framewor
 
 :seedling: What I am currently learning 
 -----
-<ul>
-<li> AWS Cloud Practitioner-- Certificate</li>
-<li> AWS Cloud Developer-- Certificate </li>
-<ul>
 
+<ul>
+  <li> AWS Cloud Practitioner-- Certificate</li>
+  <li> AWS Cloud Developer-- Certificate </li>
+</ul>
+
+</br>
 
 :newspaper: Current Posts
 -----
+  
 <ul>
+  
+ [Uniswap V3’s Brooklyn Blend: Bridging the Gap between Swap Math and Tech](https://medium.com/@bgskinner3/uniswap-v3s-brooklyn-blend-bridging-the-gap-between-swap-math-and-tech-e8aff317cb9c) 
+  
+  [Flash Loans, The Graph, and Triangular Arbitrage : Your Quick Guide to Profit In Decentralized Markets](https://medium.com/coinmonks/flash-loans-the-graph-and-triangular-arbitrage-your-quick-guide-to-profit-in-decentralized-2e1c03aec82)
+  
+  [Flash Loans, The Graph, and Triangular Arbitrage : Spot Opportunities Like Tony Soprano Pt I.](https://medium.com/coinmonks/flash-loans-the-graph-and-triangular-arbitrage-spot-opportunities-like-tony-soprano-pt-i-3ddc32a08aba)
+  
+ [Flash Loans, The Graph, and Triangular Arbitrage : Spot Opportunities Like Tony Soprano Pt II.](https://medium.com/coinmonks/flash-loans-the-graph-and-triangular-arbitrage-spot-opportunities-like-tony-soprano-pt-ii-d931cca210ce)
+  
+
 
 </ul>
+  And More! Check out my Medium profile 
+  
+  [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@bgskinner3)
 
 
 
