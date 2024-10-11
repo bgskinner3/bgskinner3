@@ -1,10 +1,4 @@
 
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/70499088/225476657-562fa1f5-2fbf-4c4b-baa5-ef2768064148.jpg" width="1000" height="400"/>
-
-
-</p>
 
 <br/>
 
