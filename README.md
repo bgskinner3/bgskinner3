@@ -85,26 +85,7 @@ I am a seasoned full-stack engineer with a wealth of experience in web3 framewor
 
 </br>
 
-:computer: What I am currently working on 
------
 
-<ul>
-<li> Chatgpt app </li>
-<li> Moblie SQL practice app </li>
-<li> Old personal Website </li>
-</ul>
-
-</br>
-
-:seedling: What I am currently learning 
------
-
-<ul>
-  <li> AWS Cloud Practitioner-- Certificate</li>
-  <li> AWS Cloud Developer-- Certificate </li>
-</ul>
-
-</br>
 
 :newspaper: Current Posts
 -----
